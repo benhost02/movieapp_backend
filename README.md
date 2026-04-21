@@ -1,6 +1,6 @@
-# 🎬 Netflix Backend
+# 🎬 MovieApp Backend
 
-**By DigitalWitch | Cloud • DevOps • Security**
+**By Engr. Benjamin | Cloud • DevOps • Security**
 
 ---
 
